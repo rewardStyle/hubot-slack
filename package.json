@@ -36,6 +36,9 @@
   "devDependencies": {
     "pino-pretty": "^10.0.1"
   },
+  "overrides": {
+    "proxy-addr": "2.0.8"
+  },
   "release": {
     "branches": [
       "main",
